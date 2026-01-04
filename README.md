@@ -1,4 +1,4 @@
-# 🟩 BYOD Security Assessment & Device Compliance Project
+# 💻 BYOD Security Assessment & Device Compliance Project
 ---
 
  📄 **Full Lab Report:**  
