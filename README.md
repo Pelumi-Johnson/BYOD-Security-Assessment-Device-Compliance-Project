@@ -6,6 +6,7 @@
 👉 [Click here to open the complete lab screenshots](https://github.com/Pelumi-Johnson/BYOD-Security-Assessment-Device-Compliance-Project/blob/main/Screenshots.pdf)
 
 
+
 ### 🧾 Bring Your Own Device (BYOD) Registration & Risk Evaluation
 Hands-on project focused on evaluating a personal endpoint for enterprise BYOD approval by documenting hardware specifications, operating system security, patch compliance, and alignment with industry best practices.
 
