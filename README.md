@@ -16,7 +16,7 @@ The goal was to determine whether a personal laptop meets **enterprise security 
 
 ---
 
-## 🖥️ Device Overview
+## 🖥️ My Device Overview
 - 💻 **Device Type:** Laptop (Dell Inspiron 15 3520)
 - 🏭 **Manufacturer:** Dell
 - 🧠 **Architecture:** Intel x64-based system  
